@@ -4,7 +4,7 @@ This project is a sales dashboard created in Power BI using the SuperStore datas
 
 I built this dashboard after learning from Rishabh Mishra’s Power BI tutorials, where I understood the core concepts and then customized the visuals and layout in my own way.
 
-Features
+Features :
 
 Historical sales trend analysis
 
@@ -14,7 +14,7 @@ Regional and category performance breakdown
 
 Monthly and yearly growth insights
 
-How to Use
+How to Use :
 
 Download the .pbix file
 
